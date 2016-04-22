@@ -1,0 +1,7 @@
+[Desktop Entry]
+Terminal=false
+Type=Application
+Name=Logout
+Exec=oblogout
+Icon=system-shutdown
+Categories=System;
